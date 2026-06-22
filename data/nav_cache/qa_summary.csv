@@ -1,0 +1,4 @@
+﻿fund_code,start_date,end_date,rows,duplicate_dates,missing_values,nonpositive_nav,min_nav,max_nav,max_abs_daily_return_pct,abs_return_gt_20pct,dates_strictly_increasing,qa_status
+007817,2019-09-03,2026-06-12,1642,0,0,0,0.7374,4.733,12.15977919190372,0,True,PASS
+008887,2020-06-02,2026-06-12,1463,0,0,0,0.6566,2.3355,14.2685720519254,0,True,PASS
+008585,2020-06-16,2026-06-12,1444,0,0,0,0.5574,1.8693,12.572951027657941,0,True,PASS

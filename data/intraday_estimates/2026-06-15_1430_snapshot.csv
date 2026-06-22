@@ -1,0 +1,4 @@
+decision_date,decision_time,archived_at,fund_code,fund_name,linked_etf_code,linked_etf_name,eastmoney_fundgz_available,eastmoney_fundgz_change_pct,estimate_used_for_decision,estimate_history_observations,iopv_available,etf_change_pct,breadth_positive_count,breadth_sample_size,breadth_positive_ratio,notes
+2026-06-15,14:30,2026-06-15 22:44:58 +08:00,007817,国泰中证全指通信设备ETF联接A,515880,通信ETF,false,,false,0,false,6.17,10,10,1.00,"联接基金估值功能不可用；仅保留 ETF 与成分股广度确认；估值不参与判断"
+2026-06-15,14:30,2026-06-15 22:44:58 +08:00,008887,华夏国证半导体芯片ETF联接A,159995,芯片ETF,false,,false,0,false,5.99,10,10,1.00,"联接基金估值功能不可用；仅保留 ETF 与成分股广度确认；估值不参与判断"
+2026-06-15,14:30,2026-06-15 22:44:58 +08:00,008585,华夏中证人工智能主题ETF联接A,515070,人工智能ETF,false,,false,0,false,5.72,10,10,1.00,"联接基金估值功能不可用；仅保留 ETF 与成分股广度确认；估值不参与判断"

@@ -1,0 +1,7 @@
+﻿decision_date,captured_at,fund_code,fund_name,theme,linked_etf_code,linked_etf_name,fund_estimate_available,fund_estimate_change_pct,fund_estimate_time,fund_estimate_source_date,etf_spot_available,etf_change_pct,etf_latest_price,etf_amount,data_notes
+2026-06-20,2026-06-20 02:59:07,006503,财通集成电路产业股票C,半导体主动/集成电路,159995,芯片ETF,True,2.0,,2026-06-18,True,4.68,2.816,2152388403.522,
+2026-06-20,2026-06-20 02:59:07,011370,华商均衡成长混合C,科技成长锚,,,True,2.96,,2026-06-18,False,,,,no_linked_etf
+2026-06-20,2026-06-20 02:59:07,007817,国泰中证全指通信设备ETF联接A,CPO/通信设备,515880,通信ETF,True,3.69,,2026-06-18,True,3.64,1.822,4332928855.0,
+2026-06-20,2026-06-20 02:59:07,008887,华夏国证半导体芯片ETF联接A,存储/半导体代理,159995,芯片ETF,True,4.49,,2026-06-18,True,4.68,2.816,2152388403.522,
+2026-06-20,2026-06-20 02:59:07,008585,华夏中证人工智能主题ETF联接A,AI/人工智能,515070,人工智能ETF,True,4.76,,2026-06-18,True,4.96,2.667,382911928.0,
+2026-06-20,2026-06-20 02:59:07,720001,财通价值动量混合,PCB/制造成长代理,,,True,2.01,,2026-06-18,False,,,,no_linked_etf

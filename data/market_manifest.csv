@@ -1,0 +1,13 @@
+group,sector,asset_type,symbol,adjust
+us,technology,us_stock,XLK,qfq
+us,semiconductor,us_stock,SOXX,qfq
+us,healthcare,us_stock,XLV,qfq
+us,financials,us_stock,XLF,qfq
+us,materials,us_stock,XLB,qfq
+us,energy,us_stock,XLE,qfq
+cn,technology,cn_etf,159995,qfq
+cn,semiconductor,cn_etf,512480,qfq
+cn,healthcare,cn_etf,512010,qfq
+cn,financials,cn_etf,512800,qfq
+cn,materials,cn_etf,512400,qfq
+cn,energy,cn_etf,159930,qfq

@@ -1,0 +1,7 @@
+﻿14:30基金估值抓取说明
+运行时间: 2026-06-16 22:37:25 +08:00
+数据文件: E:\LifeE\Quant\data\intraday_estimates\fund_estimate_captures.csv
+抓取成功: 是，成功 3 只，失败 0 只。
+成功基金: 007817 国泰中证全指通信设备ETF联接A, 008887 华夏国证半导体芯片ETF联接A, 008585 华夏人工智能ETF联接A
+失败基金: 无
+说明: 接口返回当日估值，未触发非交易日跳过；source_estimate_time 记录公开接口估值时间。

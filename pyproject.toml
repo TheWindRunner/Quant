@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quant-fund-advisor"
+version = "0.1.0"
+description = "Research-grade sector rotation and mutual fund timing toolkit"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=2.0",
+]
+
+[project.optional-dependencies]
+live = ["akshare>=1.16"]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+fund-advisor = "quant_fund_advisor.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["quant_fund_advisor*"]
+
